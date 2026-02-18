@@ -1,2 +1,2 @@
-# thawra-virtual-school
-موقع ثانوية الجزائر الافتراضية
+Algeria Virtual High School
+ثانوية الجزائر الافتراضية
